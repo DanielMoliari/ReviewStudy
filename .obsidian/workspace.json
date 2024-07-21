@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ingles/Ingles.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ingles/Ingles.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ingles/Ingles.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ingles/Ingles.md"
+                "file": "Kubernetes/Kubernetes.md"
               }
             }
           }
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,6 +149,8 @@
   "active": "68e909cbcee22a17",
   "lastOpenFiles": [
     "Docker/Docker.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes",
     "Ingles/Ingles.md",
     "Docker",
     "README.md",
