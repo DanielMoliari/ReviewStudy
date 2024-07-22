@@ -1,3 +1,5 @@
+Hi! Thank you for taking the time to meet with me I'm grateful for the chance to discuss what I can bring to this role
+
 Tell me about yourself.
 
 "My name is Daniel Moliari, I'm 21 years old, and I am currently a front-end developer with a strong interest in DevOps. I have hands-on experience with React, Vue, Material-UI, and TypeScript, as well as familiarity with Node.js. Recently, I have been dedicating time to learning more about Kubernetes and DevOps practices, as I am enthusiastic about the role DevOps plays in enhancing software development processes. Additionally, I am in the fifth semester of my Information Systems degree at CEFET. I am excited to bring my skills and passion for continuous improvement and automation to a DevOps role and contribute to a dynamic team."
