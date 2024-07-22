@@ -1,6 +1,6 @@
 Tell me about yourself.
 
-"My name is Daniel Moliari, and I am currently a front-end intern with a strong interest in DevOps. I have hands-on experience with React, Vue, Material-UI, and TypeScript, as well as familiarity with Node.js. Recently, I have been dedicating time to learning more about Kubernetes and DevOps practices, as I am enthusiastic about the role DevOps plays in enhancing software development processes. Additionally, I am in the fifth semester of my Information Systems degree at CEFET. I am excited to bring my skills and passion for continuous improvement and automation to a DevOps role and contribute to a dynamic team."
+"My name is Daniel Moliari, and I am currently a front-end developer with a strong interest in DevOps. I have hands-on experience with React, Vue, Material-UI, and TypeScript, as well as familiarity with Node.js. Recently, I have been dedicating time to learning more about Kubernetes and DevOps practices, as I am enthusiastic about the role DevOps plays in enhancing software development processes. Additionally, I am in the fifth semester of my Information Systems degree at CEFET. I am excited to bring my skills and passion for continuous improvement and automation to a DevOps role and contribute to a dynamic team."
 
 
 Why do you want to work in this role?
