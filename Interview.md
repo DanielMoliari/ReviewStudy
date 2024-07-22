@@ -1,16 +1,16 @@
 Tell me about yourself.
 
-"My name is Daniel Moliari, and I am currently a front-end developer with a strong interest in DevOps. I have hands-on experience with React, Vue, Material-UI, and TypeScript, as well as familiarity with Node.js. Recently, I have been dedicating time to learning more about Kubernetes and DevOps practices, as I am enthusiastic about the role DevOps plays in enhancing software development processes. Additionally, I am in the fifth semester of my Information Systems degree at CEFET. I am excited to bring my skills and passion for continuous improvement and automation to a DevOps role and contribute to a dynamic team."
+"My name is Daniel Moliari, I'm 21 years old, and I am currently a front-end developer with a strong interest in DevOps. I have hands-on experience with React, Vue, Material-UI, and TypeScript, as well as familiarity with Node.js. Recently, I have been dedicating time to learning more about Kubernetes and DevOps practices, as I am enthusiastic about the role DevOps plays in enhancing software development processes. Additionally, I am in the fifth semester of my Information Systems degree at CEFET. I am excited to bring my skills and passion for continuous improvement and automation to a DevOps role and contribute to a dynamic team."
 
 
 Why do you want to work in this role?
 
-"I want to work in this role because I am passionate about DevOps and the impact it has on improving software development processes. This position is a great opportunity for me to apply my skills and learn more about the field. Additionally, as this is an international role, I am excited about the chance to collaborate with and learn from people from different parts of the world, which I believe will be a very enriching experience."
+"I want to work in this role because I am passionate about DevOps and the impact it has on improving software development processes. This position is a great opportunity for me to apply my skills and learn more about the field. Additionally, as this is an international role, I am so excited about the chance to collaborate with and learn from people from different parts of the world, which I believe will be a very enriching experience."
 
 
 Greatest Strength:
 
-"My greatest strength is my ability to learn quickly. I can adapt to new technologies and methodologies efficiently, which is crucial in the constantly evolving field of DevOps. This strength has helped me pick up new programming languages and tools rapidly, and I am confident it will allow me to contribute effectively in this role."
+"My greatest strength is my ability to learn quickly. I can adapt to new technologies efficiently, which is crucial in the constantly evolving field of DevOps. This strength has helped me pick up new programming languages and tools rapidly, and I am confident it will allow me to contribute effectively in this role."
 
 
 Greatest Weakness:
